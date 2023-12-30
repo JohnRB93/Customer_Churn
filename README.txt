@@ -1,8 +1,10 @@
 The dataset is a customer churn dataset for a fictional company called "Databel".
 The dataset is taken from one of DataCamp's case studies for data analysis on Microsoft Power Bi.
 
+****************************************************************************************************************
 The goal of this project is to perform an EDA on this dataset to discover insights that can be used to reduce
 the company's churn rate.
+****************************************************************************************************************
 
 ================================================================================================================
 
